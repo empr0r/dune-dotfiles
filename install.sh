@@ -31,6 +31,6 @@ if [ ! -d ~/.local/share/wallpapers ]; then
 fi
 
 # Move 1174531.jpg to wallpaper directory
-mv 1174531.jpg ~/.local/share/wallpapers/
+mv wallpaper.jpg ~/.local/share/wallpapers/
 
 echo "Installation complete!"
