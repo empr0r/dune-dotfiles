@@ -19,6 +19,14 @@ cd dune-dotfiles
 
 3. Install
 
+chmod +x install.sh
+
+./install.sh
+
+
+or...
+
+
 mv Dune.colors ~/.local/share/color-schemes/
 
 mv Dune.colorscheme ~/.local/share/konsole/
