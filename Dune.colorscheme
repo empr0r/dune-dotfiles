@@ -19,26 +19,26 @@ Color=78,81,115
 Color0Intense=67,69,98
 
 [Color1]
-Color=199,57,47
-
-[Color1Faint]
-Color=221,142,142
-Color1Faint=214,137,137
-
-[Color1Intense]
-Color=224,108,117
-Color1Intense=210,82,88
-
-[Color2]
 Color=220,117,40
 
-[Color2Faint]
+[Color1Faint]
 Color=221,191,131
 Color2Faint=212,174,118
 
-[Color2Intense]
+[Color1Intense]
 Color=209,154,102
 Color2Intense=195,131,87
+
+[Color2]
+Color=199,57,47
+
+[Color2Faint]
+Color=221,142,142
+Color1Faint=214,137,137
+
+[Color2Intense]
+Color=224,108,117
+Color1Intense=210,82,88
 
 [Color3]
 Color=27,126,59
