@@ -19,6 +19,10 @@ cd dune-dotfiles
 
 3. Install
 
-./install.sh
+mv Dune.colors ~/.local/share/color-schemes/
 
+mv Dune.colorscheme ~/.local/share/konsole/
 
+mv archlogo.txt ~/.config/neofetch/
+
+mv config.conf ~/.config/neofetch/
