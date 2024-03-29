@@ -39,7 +39,7 @@ mv config.conf ~/.config/neofetch/
 ## Extras
 Just the stuff i use
 
-Icons: https://www.pling.com/p/2053446/
-Font: https://www.nerdfonts.com
-Bash Screensaver: https://github.com/cmatsuoka/asciiquarium
-Music: https://github.com/Rigellute/spotify-tui
+Icons: https://www.pling.com/p/2053446/ \n
+Font: https://www.nerdfonts.com \n
+Bash Screensaver: https://github.com/cmatsuoka/asciiquarium \n
+Music: https://github.com/Rigellute/spotify-tui \n
