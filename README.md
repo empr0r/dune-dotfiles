@@ -1,7 +1,8 @@
 # Dune Dotfiles
 
 This repository contains my dotfiles for my Dune-themed setup
-![Unixdune2](https://github.com/empr0r/dune-dotfiles/assets/165341203/9d5a4835-4b4b-4160-8c90-a090699f9885)
+![Unixdune2](https://github.com/empr0r/dune-dotfiles/assets/165341203/de2a79bf-4d4d-4eca-97c8-f9994839b0ba)
+
 
 ## Installation
 
